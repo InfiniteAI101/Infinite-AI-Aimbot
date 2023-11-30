@@ -1,6 +1,8 @@
 # Infinite-AI-Aimbot
 This is a paid AI Aimbot for any game with humanoid characters
 Infinite AI Aimbot sharpshoots targets in any game with humanoid characters, harnessing the power of YOLOv5. Currently, it's a ninja against anti-cheat systems, as it's visual-only. Still, watch out for manual player reports
+## How to buy
+Join the discord server to buy Infinite
 ## version 
 - Fast  - `main.py` ✅ Easy to set up, Works on any computer 💻
 
