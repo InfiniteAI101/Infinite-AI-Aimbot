@@ -5,6 +5,8 @@ Infinite AI Aimbot sharpshoots targets in any game with humanoid characters, har
 ## How to buy
 Join the discord server to buy Infinite
 
+after you have bought infinite you can follow the steps given bellow
+
 ## version 
 - Fast  - `main.py` ✅ Easy to set up, Works on any computer 💻
 
@@ -39,10 +41,10 @@ Follow these steps **after** Python and all packages have been installed:
 
 ## Configurable Settings
 
-*Default settings are generally great for most scenarios. Check out the comments in the code for more insights. 🔍 The configuration settings are now located in the `config.py` file!<br>
-**CAPS_LOCK is the default for flipping the switch on the autoaim superpower! ⚙️ 🎯**
+*Default settings are generally great for most scenarios. Check out the comments in the code for more insights.  The configuration settings are now located in the `config.py` file!<br>
+**CAPS_LOCK is the default for flipping the switch on the autoaim superpower!**
 
-`aaRightShift` - Might need a tweak in 3rd person games like Fortnite and New World. 🎮 Typically, a setting of `100` or `150` should hit the mark. 🎯👌
+`aaRightShift` - Might need a tweak in 3rd person games like Fortnite and New World. 🎮 Typically, a setting of `100` or `150` should hit the mark.
 
 `aaQuitKey` - The go-to key is `q`, but if it clashes with your game style, swap it out! 
 
@@ -78,7 +80,7 @@ The bot's efficiency depends on your setup. We achieved 100-150 CPS with our tes
 
 ##  Known Cheat-Detectable Games
 
-Splitgate (reported by a Discord user 🕵️‍♂️), EQU8 detects win32 mouse movement library.
+Splitgate (reported by a Discord user), EQU8 detects win32 mouse movement library.
 
 ##  Custom Aimbots and Models
 
